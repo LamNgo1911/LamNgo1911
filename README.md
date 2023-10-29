@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamngo1911&label=Profile%20views&color=0e75b6&style=flat" alt="lamngo1911" /> </p>
 <h3>About me</h3>
-<p>I'm a skilled web developer well-versed in various web technologies, covering both backend and frontend development. I'm dedicated to delivering top-notch results. Outside of coding, I enjoy working out and tending to indoor plants. To me, coding is like crafting something valuable from scratch, like growing plants or staying fit—each step brings happiness and fulfillment.</p>
+<p>I'm a skilled web developer well-versed in various web technologies, covering both backend and frontend development. I'm dedicated to delivering top-notch results. Outside of coding, I enjoy working out. To me, coding is like crafting something valuable from scratch, like building a healthy and fit body — each step brings happiness and fulfillment.</p>
+<p>I am improving my Typescript skills and learning Python + Flask</p>
 
 - 👨‍💻 All of my projects are available at [https://gentle-empanada-660420.netlify.app](https://gentle-empanada-660420.netlify.app)
 
