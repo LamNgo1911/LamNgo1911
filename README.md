@@ -5,13 +5,9 @@
 <h3>About me</h3>
 <p>A curious software dev in various technologies. Outside of coding, I enjoy working out. To me, coding is like crafting something valuable from scratch, like building a healthy and fit body — each step brings happiness and fulfillment.</p>
 
-- 👨‍💻 All of my projects are available at [https://gentle-empanada-660420.netlify.app](https://gentle-empanada-660420.netlify.app)
+- 👨‍💻 My porfolio at [https://gentle-empanada-660420.netlify.app](https://gentle-empanada-660420.netlify.app)
 
 - 📫 How to reach me **lamngo606@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dchoW61WbVgbhzWifOyxrF2msquZsZuo/view?usp=sharing](https://drive.google.com/file/d/1dchoW61WbVgbhzWifOyxrF2msquZsZuo/view?usp=sharing)
-
-- ⚡ Hobbies **I love going to the gym and playing football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
