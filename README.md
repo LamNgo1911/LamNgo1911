@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamngo1911&label=Profile%20views&color=0e75b6&style=flat" alt="lamngo1911" /> </p>
 <h3>About me</h3>
 <p>A curious software dev in various technologies. Outside of coding, I enjoy working out. To me, coding is like crafting something valuable from scratch, like building a healthy and fit body — each step brings happiness and fulfillment.</p>
-<p>I am building two applications. They will be launching soon!!!
 
 - 👨‍💻 All of my projects are available at [https://gentle-empanada-660420.netlify.app](https://gentle-empanada-660420.netlify.app)
 
