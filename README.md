@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lam(Liam)</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamngo1911&label=Profile%20views&color=0e75b6&style=flat" alt="lamngo1911" /> </p>
 <h3>About me</h3>
-<p>I'm a skilled web developer well-versed in various web technologies, covering both backend and frontend development. I'm dedicated to delivering top-notch results. Outside of coding, I enjoy working out. To me, coding is like crafting something valuable from scratch, like building a healthy and fit body — each step brings happiness and fulfillment.</p>
+<p>A curious software dev in various technologies. Outside of coding, I enjoy working out. To me, coding is like crafting something valuable from scratch, like building a healthy and fit body — each step brings happiness and fulfillment.</p>
 <p>I am building two applications. They will be launching soon!!!
 
 - 👨‍💻 All of my projects are available at [https://gentle-empanada-660420.netlify.app](https://gentle-empanada-660420.netlify.app)
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dchoW61WbVgbhzWifOyxrF2msquZsZuo/view?usp=sharing](https://drive.google.com/file/d/1dchoW61WbVgbhzWifOyxrF2msquZsZuo/view?usp=sharing)
 
-- ⚡ Hobbies **I love going to the gym, reading, and football**
+- ⚡ Hobbies **I love going to the gym and playing football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
