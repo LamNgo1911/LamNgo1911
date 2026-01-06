@@ -13,5 +13,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/lam ngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lam ngo" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamngo1911&show_icons=true&locale=en&layout=compact" alt="lamngo1911" /></p>
