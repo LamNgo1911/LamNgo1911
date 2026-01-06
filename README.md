@@ -5,8 +5,6 @@
 <h3>About me</h3>
 <p>A curious software dev in various technologies. Outside of coding, I enjoy working out. For me, coding is like sculpting something meaningful from nothing — every line written is a step toward creating something valuable.</p>
 
-- 👨‍💻 My porfolio at [https://gentle-empanada-660420.netlify.app](https://gentle-empanada-660420.netlify.app)
-
 - 📫 How to reach me **lamngo606@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
