@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">A software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamngo1911&label=Profile%20views&color=0e75b6&style=flat" alt="lamngo1911" /> </p>
 <h3>About me</h3>
