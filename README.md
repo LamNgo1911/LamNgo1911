@@ -12,7 +12,7 @@ I build products under <strong>Lamify</strong> — a personal studio where ideas
 
 <ul>
  <li>
-    🍳 <strong>Cookify</strong> – An AI-powered mobile app that helps users discover and generate recipes smarter.<br/>
+    🍳 <strong>Cookify</strong> – A mobile application that allows users to snap a photo of their ingredients and instantly receive real, cookable recipes.<br/>
     📱 <a href="https://apps.apple.com/us/app/cookify-by-lamify/id6755784165" target="_blank">
     Download on the App Store
     </a>
