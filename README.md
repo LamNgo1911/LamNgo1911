@@ -4,10 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=lamngo1911&label=Profile%20views&color=0e75b6&style=flat" alt="lamngo1911" />
 </p>
 
-<h3>🚀 Founder of Lamify</h3>
-
 <p>
-I build products under <strong>Lamify</strong> — a personal studio where ideas turn into real applications.
+I build things that can solve problems.
 </p>
 
 <ul>
