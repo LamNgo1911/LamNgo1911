@@ -8,6 +8,10 @@
 I build things that can solve problems.
 </p>
 
+<p>
+Here are some of my products:
+</p>
+
 <ul>
  <li>
     🍳 <strong>Cookify</strong> – A mobile application that allows users to snap a photo of their ingredients and instantly receive real, cookable recipes.<br/>
