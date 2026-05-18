@@ -15,9 +15,7 @@ Here are some of my products:
 <ul>
  <li>
     🍳 <strong>Cookify</strong> – A mobile application that allows users to snap a photo of their ingredients and instantly receive real, cookable recipes.<br/>
-    📱 <a href="https://apps.apple.com/us/app/cookify-by-lamify/id6755784165" target="_blank">
-    Download on the App Store
-    </a>
+     I have removed this app from the App Store because it hasn't generated revenue. 
   </li>
   <li>📚 <strong>studyfin.app</strong> – Loading...</li>
 </ul>
