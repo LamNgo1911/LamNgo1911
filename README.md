@@ -20,11 +20,6 @@ Here are some of my products:
   <li>📚 <strong>studyfin.app</strong> – Loading...</li>
 </ul>
 
-<p>
-I’m a full-stack software engineer who loves building end-to-end products — from backend architecture to clean, user-focused interfaces. 
-My goal is simple: build useful tools that solve real problems.
-</p>
-
 - 📫 How to reach me **lamngo606@gmail.com**
 
 ## 🤝 Connect with me
