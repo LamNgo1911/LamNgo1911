@@ -14,10 +14,10 @@ Here are some of my products:
 
 <ul>
  <li>
-    🍳 <strong>Cookify</strong> – A mobile application that allows users to snap a photo of their ingredients and instantly receive real, cookable recipes.<br/>
+    <strong>Cookify</strong> – A mobile application that allows users to snap a photo of their ingredients and instantly receive real, cookable recipes.<br/>
      I have removed this app from the App Store because it hasn't generated revenue. 
   </li>
-  <li>📚 <strong>studyfin.app</strong> – Loading...</li>
+  <li><strong>studyfin.app</strong> – Loading...</li>
 </ul>
 
 - 📫 How to reach me **lamngo606@gmail.com**
